@@ -41,7 +41,7 @@ This is a simple responsive pricing table layout built using **HTML**, **CSS**, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vip23anchib/pricing-table-flexbox.git
+   git clone https://github.com/vip23anchib/flexbox-pricing-table.git
 
 
 
